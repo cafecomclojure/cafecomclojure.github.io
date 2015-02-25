@@ -1,0 +1,38 @@
+body{
+  font-family: Courier;
+  padding: 1%;
+}
+
+.logo-container{
+  width: 50%;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo-container h1{
+  text-align: center;
+  font-size: 130%;
+}
+
+.logo-container .logo {
+  height: 30%;
+  width: 30%;
+  min-width: 100px;
+  min-height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer{
+  color: gray;
+  font-size: 11px;
+  width: 80%;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-style: dashed;
+  padding-top: 10px;
+  border-color: gray;
+}
