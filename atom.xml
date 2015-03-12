@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[(str "Café com" :Clojure)]]></title>
+  <link href="http://cafecomclojure.com/atom.xml" rel="self"/>
+  <link href="http://cafecomclojure.com/"/>
+  <updated>2015-03-12T16:37:55-03:00</updated>
+  <id>http://cafecomclojure.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
